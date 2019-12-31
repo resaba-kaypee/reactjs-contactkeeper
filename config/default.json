@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://ravenlalonde:ravenlalonde@contactkeeper-o5q8n.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURILoc": "mongodb://localhost:27017/ContactKeeper",
+  "jwtSecret": "secret"
+}
